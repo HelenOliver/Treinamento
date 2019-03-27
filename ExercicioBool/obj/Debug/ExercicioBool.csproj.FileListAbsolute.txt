@@ -1,0 +1,6 @@
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ExercicioBool\bin\Debug\ExercicioBool.exe.config
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ExercicioBool\bin\Debug\ExercicioBool.exe
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ExercicioBool\bin\Debug\ExercicioBool.pdb
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ExercicioBool\obj\Debug\ExercicioBool.csproj.CoreCompileInputs.cache
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ExercicioBool\obj\Debug\ExercicioBool.exe
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ExercicioBool\obj\Debug\ExercicioBool.pdb

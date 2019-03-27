@@ -1,0 +1,7 @@
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ConsoleApp1\obj\Debug\P10-CalculaPoupanca.csprojAssemblyReference.cache
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ConsoleApp1\obj\Debug\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Inmetrics\source\repos\AprendendoCSharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
